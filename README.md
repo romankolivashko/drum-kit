@@ -1,4 +1,4 @@
-# Super Galactic Age Calculator
+# Sound of a Drun
 
 <html>
 <!-- Project Shields -->
@@ -39,7 +39,7 @@
 * _JavaScript ES6_
 
 ## Description
-Press any of "ASDFGHJKL" to play a drum sound. 
+Press any of "ASDFGHJKL" to play the sound. 
 
 ## Setup/Installation Requirements
 
