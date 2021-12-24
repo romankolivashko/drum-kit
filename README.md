@@ -49,7 +49,7 @@ Press any of "ASDFGHJKL" to play a drum sound.
 4. launch index.html in any browser 
 
 ## How to access the app from the web and hear the sound of a drum
-* _Follow the link [here](https://elated-bell-30d3d7.netlify.app/)_ 
+* _Follow the link [here](https://goofy-mcnulty-e3b785.netlify.app/)_ 
 ## Known Bugs
 
 * _None so far_
