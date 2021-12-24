@@ -46,7 +46,7 @@ Press any of "ASDFGHJKL" to play the sound.
 1. Click on "Code" button at top of GitHub repository. 
 2. Clone the repository: `$ git clone https://github.com/romankolivashko/drum-kit.git`
 3. Navigate to the drum-kit/ directory on your computer
-4. launch index.html in any browser 
+4. Launch index.html in any browser 
 
 ## How to access the app from the web and hear the sound of a drum
 * _Follow the link [here](https://goofy-mcnulty-e3b785.netlify.app/)_ 
